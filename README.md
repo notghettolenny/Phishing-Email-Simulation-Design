@@ -1,4 +1,4 @@
-# Phising-Email-Simulation-Design
+# Phishing-Email-Simulation-Design
 
 
 My submission for the Mastercard Cybersecurity Program
